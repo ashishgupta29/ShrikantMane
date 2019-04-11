@@ -1,5 +1,7 @@
 # Description about applicaton
 
+Visual Studio 2017
+
 There are three project in GameApp application.
 1. GameApp (Console Project) for User UI
 2. Service Layer (Class library project) it contains classes, enum, interface and methods for game rules and data 
