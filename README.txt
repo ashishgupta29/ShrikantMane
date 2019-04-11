@@ -5,7 +5,7 @@ There are three project in GameApp application.
 2. Service Layer (Class library project) it contains classes, enum, interface and methods for game rules and data 
 3. UnitTestGame (UnitTest project) for test cases
 
-Used below principle out of 5 SOLID principles,
+Applied below SOLID principles,
 1. SRP - Single responsibility principle (every class have only one task) like classes Validation, ComputerPlayers, RulesItemMapData, Result
 2. OCP - Open and Close principle, easy for extension and closed for modification. Interface IResult has one method and but have differnt functionality, 
          used in both classes GameResult and Result.
